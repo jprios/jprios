@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Impact of Fiscal Shocks on Real Wages"
+date:   2018-06-04 22:21:59 +00:00
+image: /images/fiscal-shock-real-wages-thumb.png
+categories: published
+author: "João Paulo Rios e Silva"
+authors: "Elano Ferreira Arruda, <strong>João Paulo Rios e Silva</strong>"
+venue: "Economia Aplicada (USP)"
+paper: https://www.revistas.usp.br/ecoa/article/download/133068/160765
+---
+The effects of fiscal policy on the real wages are not consensus, both in its theoretical and empirical approach. This paper seeks to contribute by analyzing the effects of fiscal shocks on real wage mass for the Brazilian states, considering budgetary, current and investment expenditure. The results were extracted from impulse response functions, obtained from the panel VAR models. The evidence points to the positive impact of ex- penditures on GDP and real wages. These results indicate that the New Keynesian synthesis seems to better explain the Brazilian labor market response to fiscal shocks.
